@@ -1,2 +1,1 @@
-# Hybrids
-Hybrids: On the borderline between Art and Technology
+Hybrids exhibition wiki ↪ https://github.com/Stegi-OCC/Hybrids/wiki
