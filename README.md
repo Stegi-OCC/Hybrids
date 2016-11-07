@@ -2,6 +2,8 @@
 
 # [Υβρίδια](http://www.sgt.gr/gre/SPG1745/): Στα όρια Τέχνης και Τεχνολογίας
 
+🗎 [Κείμενο επιμελητή](https://github.com/Stegi-OCC/Hybrids/wiki/Curatorial-text) _της Manuela Naveau_
+
 Θέλετε να δείτε την επιστήμη να συναντά την τέχνη; Τεχνολογία, ακτιβισμός και ποπ κουλτούρα συμβαδίζουν στη νέα έκθεση που πραγματοποιεί η Στέγη σε συνεργασία με το καινοτόμο ερευνητικό και πολιτιστικό κέντρο νέων μέσων Ars Electronica του Linz.
 
 Μπορεί ένα έργο τέχνης να δημιουργήσει νέες μορφές ενέργειας; Πώς θα ήταν η αναπαράσταση της ψηφιακής σας περσόνας στον κόσμο των κοινωνικών δικτύων;
@@ -27,6 +29,8 @@
 - [Third Quarterly Report](https://github.com/Stegi-OCC/Hybrids/wiki/Third-Quarterly-Report) / Manu Luksch (AT)
 
 # [Hybrids](http://www.sgt.gr/eng/SPG1745/): On the borderline between Art and Technology
+
+🗎 [Curatorial text](https://github.com/Stegi-OCC/Hybrids/wiki/Curatorial-text#curatorial-text) _by Manuela Naveau_
 
 Want to see science meet art? Technology, activism and pop culture proceed hand in hand in this new exhibition staged by the OCC in collaboration with Ars Electronica, the innovative research and new media cultural centre from Linz, Austria.
 
